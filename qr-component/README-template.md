@@ -1,6 +1,6 @@
 - # Screenshot[./screenshots/1.png)(./screenshots/2.png]
 - # Solution url:[ https://github.com/meghaspatil1/qr-code-component.git]
-- # Live site url:[ ]
+- # Live site url:[https://meghaspatil1.github.io/qr-code-component/]
 - # My Process
 	Semantic HTML5 markup
 	CSS custom properties
@@ -26,6 +26,6 @@
 I need to gain more concept in font sizing and some advance style things for better responsive webpage.
 
 
-- Website - [Megha P](https://www.your-site.com)
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Website - [Megha P](https://meghaspatil1.github.io/qr-code-component/)
+- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/meghapatil1)
 
